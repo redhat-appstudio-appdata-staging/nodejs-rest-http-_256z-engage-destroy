@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: devfile-sample-3s40
     app.kubernetes.io/part-of: nodejs-rest-http
-  name: devfile-sample-3s40mbrh
+  name: devfile-sample-3s403bqn
 spec:
   path: /
   port:
