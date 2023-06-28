@@ -12,7 +12,7 @@ spec:
       creationTimestamp: null
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/lholmqui-tenant/nodejs-rest-http/nodejs-rest-http-digv@sha256:954e585ebc370c142f89a58263402103c8e722ca7adaf4b29799fa1bbee686e2
+      - image: quay.io/redhat-user-workloads-stage/lholmqui-tenant/nodejs-rest-http/nodejs-rest-http-digv@sha256:b9a5df809e3acb8570d6b6bd7270444a3a6730bd7053741f019f8dc9393e78cb
         name: my-nodejs
         resources: {}
 status: {}
