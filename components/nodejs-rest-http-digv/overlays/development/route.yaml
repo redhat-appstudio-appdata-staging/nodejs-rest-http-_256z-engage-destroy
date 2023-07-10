@@ -8,7 +8,7 @@ metadata:
     app.kubernetes.io/managed-by: kustomize
     app.kubernetes.io/name: nodejs-rest-http-digv
     app.kubernetes.io/part-of: nodejs-rest-http
-  name: nodejs-rest-http-digv6zqe
+  name: nodejs-rest-http-digv4het
 spec:
   path: /
   port:
