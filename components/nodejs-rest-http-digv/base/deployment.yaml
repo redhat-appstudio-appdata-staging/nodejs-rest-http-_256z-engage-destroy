@@ -25,7 +25,7 @@ spec:
         app.kubernetes.io/instance: nodejs-rest-http-digv
     spec:
       containers:
-      - image: quay.io/redhat-user-workloads-stage/lholmqui-tenant/nodejs-rest-http/nodejs-rest-http-digv@sha256:49fcf883fc0a6c80623e454b32bd251dfe2069a12c735c840b12e4191eaa2e72
+      - image: quay.io/redhat-user-workloads-stage/lholmqui-tenant/nodejs-rest-http/nodejs-rest-http-digv@sha256:12e07d18b754b3f56e2220cda22c03219f26e0463df079da11a2525d34eb7ea9
         name: my-nodejs
         ports:
         - containerPort: 3001
